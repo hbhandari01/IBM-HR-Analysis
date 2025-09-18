@@ -27,6 +27,7 @@ Source: IBM sample HR dataset (available on Kaggle)
 This dataset contains employee demographics, career progression, work-life balance, income, and attrition details.
 
 🏗 Database Setup
+
 1️⃣ Create Database and Table
 
 CREATE DATABASE Ibm_Hr;
