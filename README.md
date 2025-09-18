@@ -160,7 +160,7 @@ Select
 
 ##### 1. Peer Groups
 
-select 
+Select 
      A.Emp_No As Emp_1, B.Emp_No As Emp_2,
      A.JobRole, A.TotalWorkingYears
      From Employees A 
@@ -183,8 +183,8 @@ Select
      From (
          Select
 			  Department, Emp_No, TotalWorkingYears,
-              Row_Number() Over (Partition By Department Order By TotalWorkingYears Desc) as Work_Experience_Rank
-			  From Employees ) as Ranked
+              Row_Number() Over (Partition By Department Order By TotalWorkingYears Desc) As Work_Experience_Rank
+			  From Employees ) As Ranked
 			  Where Work_Experience_Rank = 1 ;
 
 📈 Key Insights
