@@ -187,7 +187,7 @@ Select
 			  From Employees ) As Ranked
 			  Where Work_Experience_Rank = 1 ;
 
-📈 Key Insights
+📈 Key Insights:
 
 Attrition:
 
