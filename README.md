@@ -62,7 +62,7 @@ CREATE TABLE Employees (
     YearsWithCurrManager INT
 );
 
-2️⃣ Import Data
+2️⃣ Import Data:
 
 Used MySQL Workbench → Table Data Import Wizard to load ibm_hr_dataset.csv.
 
