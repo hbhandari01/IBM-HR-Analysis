@@ -14,7 +14,7 @@ HR Analytics (attrition, salary analysis, promotions, demographics)
 
 Query optimization and structured reporting
 
-🗂 Dataset Details
+🗂 Dataset Details:
 
 Name: IBM HR Analytics Dataset
 
@@ -26,7 +26,7 @@ Source: IBM sample HR dataset (available on Kaggle)
 
 This dataset contains employee demographics, career progression, work-life balance, income, and attrition details.
 
-🏗 Database Setup
+🏗 Database Setup:
 
 1️⃣ Create Database and Table
 
