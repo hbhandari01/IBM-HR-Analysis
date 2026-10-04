@@ -1,4 +1,4 @@
-# 📊 HR Analytics using SQL – IBM HR Dataset
+# HR Analytics using SQL – IBM HR Dataset
 📌 Project Overview
 
 This project explores employee attrition, salary trends, promotions, and work-life balance using the IBM HR Analytics dataset.
