@@ -22,7 +22,7 @@ Rows: 1470
 
 Columns: 35+ (EmployeeNumber, Age, Gender, Department, JobRole, MonthlyIncome, TotalWorkingYears, Attrition, etc.)
 
-Source: IBM sample HR dataset (available on Kaggle)
+Source: IBM sample HR dataset (Kaggle)
 
 This dataset contains employee demographics, career progression, work-life balance, income, and attrition details.
 
